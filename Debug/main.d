@@ -55,10 +55,12 @@ main.obj: C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.3.LTS/include/inttypes.h
 main.obj: C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.3.LTS/include/machine/_inttypes.h
 main.obj: C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.3.LTS/include/string.h
 main.obj: C:/Users/Collin\ Beaudoin/Documents/EGR326/CustomLibrary/COMMONCLOCKS.h
-main.obj: ../KEYPAD.h
 main.obj: ../ST7735.h
-main.obj: ../RTC.h
 main.obj: C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.3.LTS/include/stdlib.h
+main.obj: ../MotorLib.h
+main.obj: ../MSPIO.h
+main.obj: C:/Users/Collin\ Beaudoin/workspace_v8/UART_Bitch/UART_Driver.h
+main.obj: ../KEYPAD.h
 
 ../main.c: 
 C:/ti/msp/MSP432Ware_3_50_00_02/driverlib/driverlib/MSP432P4xx/driverlib.h: 
@@ -115,7 +117,9 @@ C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.3.LTS/include/inttypes.h:
 C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.3.LTS/include/machine/_inttypes.h: 
 C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.3.LTS/include/string.h: 
 C:/Users/Collin\ Beaudoin/Documents/EGR326/CustomLibrary/COMMONCLOCKS.h: 
-../KEYPAD.h: 
 ../ST7735.h: 
-../RTC.h: 
 C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.3.LTS/include/stdlib.h: 
+../MotorLib.h: 
+../MSPIO.h: 
+C:/Users/Collin\ Beaudoin/workspace_v8/UART_Bitch/UART_Driver.h: 
+../KEYPAD.h: 
