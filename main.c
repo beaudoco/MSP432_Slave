@@ -29,9 +29,9 @@ char Buffer[BUFFER_SIZE];
 eUSCI_UART_Config UART2Config =
 {
      EUSCI_A_UART_CLOCKSOURCE_SMCLK,
-     13,
+     78,
+     2,
      0,
-     37,
      EUSCI_A_UART_NO_PARITY,
      EUSCI_A_UART_LSB_FIRST,
      EUSCI_A_UART_ONE_STOP_BIT,
